@@ -1,4 +1,4 @@
-# 🏠 Homey - Smart Home Control Platform
+# 🏠 Smart Home - Smart Home Control Platform
 
 A modern, scalable React application for controlling and managing smart home devices with a beautiful UI and powerful automation features.
 
@@ -77,7 +77,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd homey-smart-home
+   cd smart-home-smart-home
    ```
 
 2. **Install dependencies**

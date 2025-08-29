@@ -31,7 +31,7 @@ export const Navbar = () => {
               <span className="text-white font-bold text-lg">H</span>
             </div>
             <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-              Homey
+              Smart Home
             </h1>
           </div>
 
